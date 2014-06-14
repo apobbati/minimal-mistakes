@@ -6,10 +6,6 @@ tagline: A Technology Blog
 tags: [about, technology, blog]
 modified: 5-19-2014
 comments: false
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
 This blog is my attempt to capture thoughts, experiments, and any other ramblings about technology.
